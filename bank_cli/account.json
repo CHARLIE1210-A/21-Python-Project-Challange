@@ -1,0 +1,14 @@
+{
+    "12ewr": {
+        "account_no": "12ewr",
+        "holder_name": "lol",
+        "balance": 900.0,
+        "transactions": [
+            {
+                "type": "DEPOSIT",
+                "amount": 900.0,
+                "balance_after": 900.0
+            }
+        ]
+    }
+}
