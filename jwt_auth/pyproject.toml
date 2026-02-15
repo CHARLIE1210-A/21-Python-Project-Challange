@@ -1,0 +1,12 @@
+[project]
+name = "jwt-auth"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "fastapi>=0.129.0",
+    "passlib[bcrypt]>=1.7.4",
+    "python-jose>=3.5.0",
+    "uvicorn>=0.40.0",
+]
